@@ -1,7 +1,7 @@
 import ArtworksList from './components/artworks-list.tsx';
 import {useEffect, useState} from "react";
 import {styled} from "styled-components";
-import {Artwork} from './types.ts';
+import {Artwork} from './types';
 import HeaderTitle from "./components/artworks-header.tsx";
 import ArtworksFooter from "./components/artworks-footer.tsx";
 
